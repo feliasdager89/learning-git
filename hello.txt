@@ -1,1 +1,2 @@
 Hello world! What am I doing?
+Hello feature 2!
